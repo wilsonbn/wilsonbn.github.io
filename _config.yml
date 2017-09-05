@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: You still have a lot to learn, buddy.
 author: Brian Wilson
+gravatar_url: https://secure.gravatar.com/avatar/ac0506b48a128d393c4a1bbda054cb96
 #email: wilsonbn.mobile@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. 

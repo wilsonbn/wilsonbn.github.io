@@ -8,7 +8,11 @@
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li>
-            {% if site.author %}
+            {% if site.gravatar_url %}
+              <div class="profilepic">
+                  <img src="{{ site.gravatar_url }}?s=160" alt="Profile Picture" style="width: 160px;" />
+              </div>
+            {% else if site.author %}
               {{ site.author | escape }}
             {% else %}
               {{ site.title | escape }}
@@ -19,8 +23,6 @@
             {% endif %}
         </ul>
       </div>
-
-	  <hr>
 
       <div class="footer-col footer-col-2">
         <ul class="social-media-list">
