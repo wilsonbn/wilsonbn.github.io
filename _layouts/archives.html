@@ -3,14 +3,20 @@ layout: default
 ---
 
 <div class="home">
-	<h1>Archive of posts from {{ page.date | date: "%Y" }}</h1>
-
-	<ul class="posts">
-	{% for post in page.posts %}
-	  <li>
+  <h1 class="page-heading">Older Posts</h1>
+  
+<ul class="posts">
+{% for post in site.posts %}
+	{% capture this_year %}{{ site.time | date: "%Y" }}{% endcapture %}
+	{% capture post_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+	{% if post_year != this_year %}
+		<li>
 		<span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
 		<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-	  </li>
-	{% endfor %}
-	</ul>
+		</li>
+	{% endif %}
+{% endfor %}
+</ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
 </div>
