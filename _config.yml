@@ -30,7 +30,7 @@ github_username:  wilsonbn
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: jekyll-theme-dinky
 plugins:
   - jekyll-feed
   - jekyll-archives
