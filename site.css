@@ -1,1 +1,6 @@
-#title .profilepic img { border-radius: 50%;-moz-border-radius:50%;-webkit-border-radius:50% }
+.profilepic img { border-radius: 50%;-moz-border-radius:50%;-webkit-border-radius:50% }
+
+.page-header {
+  background-color: #159957;
+  background-image: linear-gradient(120deg, #000000, #159957); }
+}
