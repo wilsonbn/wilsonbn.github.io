@@ -1,7 +1,4 @@
 ---
-permalink: /.well-known/keybase.txt
----
----
 permalink: /keybase.txt
 ---
 ==================================================================
