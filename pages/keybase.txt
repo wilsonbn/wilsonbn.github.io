@@ -1,5 +1,5 @@
 ---
-permalink: /keybase.txt
+permalink: /.well-known/keybase.txt
 ---
 ==================================================================
 https://keybase.io/wilsonbnmobile
