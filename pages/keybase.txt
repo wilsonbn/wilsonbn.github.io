@@ -1,0 +1,58 @@
+---
+permalink: /.well-known/keybase.txt
+---
+==================================================================
+https://keybase.io/wilsonbnmobile
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://wilsonbn.github.io
+  * I am wilsonbnmobile (https://keybase.io/wilsonbnmobile) on keybase.
+  * I have a public key ASDQv8KDrSAWZ_F_nwCRSp09JysCLk3gjUSGEFAsLe-1Fwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d0bfc283ad201667f17f9f00914a9d3d272b022e4de08d448610502c2defb5170a",
+      "host": "keybase.io",
+      "kid": "0120d0bfc283ad201667f17f9f00914a9d3d272b022e4de08d448610502c2defb5170a",
+      "uid": "0ee15ef69970d5621addbaae17578c19",
+      "username": "wilsonbnmobile"
+    },
+    "merkle_root": {
+      "ctime": 1509743313,
+      "hash": "258ccc7f8e98d5a60fd1a13d63c409b87ee89058f8fe49fba1a9a5f899ba9a255e4c046bc836cf4941b003ec049b6459b12debb0037306052c2950dce2d6a7fa",
+      "hash_meta": "47be3e445458624b9f06925ca9c161c5069976d03fc2aa22d2cdea453b020b20",
+      "seqno": 1664340
+    },
+    "service": {
+      "hostname": "wilsonbn.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.34"
+  },
+  "ctime": 1509743317,
+  "expire_in": 504576000,
+  "prev": "d24a64622b8c2441ed53234e79474de1aaa91fca13ac2178938b2f8fb64d7e20",
+  "seqno": 30,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg0L/Cg60gFmfxf58AkUqdPScrAi5N4I1EhhBQLC3vtRcKp3BheWxvYWTFA1F7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZDBiZmMyODNhZDIwMTY2N2YxN2Y5ZjAwOTE0YTlkM2QyNzJiMDIyZTRkZTA4ZDQ0ODYxMDUwMmMyZGVmYjUxNzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZDBiZmMyODNhZDIwMTY2N2YxN2Y5ZjAwOTE0YTlkM2QyNzJiMDIyZTRkZTA4ZDQ0ODYxMDUwMmMyZGVmYjUxNzBhIiwidWlkIjoiMGVlMTVlZjY5OTcwZDU2MjFhZGRiYWFlMTc1NzhjMTkiLCJ1c2VybmFtZSI6IndpbHNvbmJubW9iaWxlIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTA5NzQzMzEzLCJoYXNoIjoiMjU4Y2NjN2Y4ZTk4ZDVhNjBmZDFhMTNkNjNjNDA5Yjg3ZWU4OTA1OGY4ZmU0OWZiYTFhOWE1Zjg5OWJhOWEyNTVlNGMwNDZiYzgzNmNmNDk0MWIwMDNlYzA0OWI2NDU5YjEyZGViYjAwMzczMDYwNTJjMjk1MGRjZTJkNmE3ZmEiLCJoYXNoX21ldGEiOiI0N2JlM2U0NDU0NTg2MjRiOWYwNjkyNWNhOWMxNjFjNTA2OTk3NmQwM2ZjMmFhMjJkMmNkZWE0NTNiMDIwYjIwIiwic2Vxbm8iOjE2NjQzNDB9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoid2lsc29uYm4uZ2l0aHViLmlvIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzQifSwiY3RpbWUiOjE1MDk3NDMzMTcsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiZDI0YTY0NjIyYjhjMjQ0MWVkNTMyMzRlNzk0NzRkZTFhYWE5MWZjYTEzYWMyMTc4OTM4YjJmOGZiNjRkN2UyMCIsInNlcW5vIjozMCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEBYlfwT63ED0k+SY8/41PgEio/MsWZ/mWkhHq+MQlVBxYYobPsucz1mhIG+h/d8GdRsgptmLw+JyJ/q+6sqyPAHqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgh7LFuvlbTOg/isnhtJvduDGtVgWoSfIMt6FMK8Wl6/mjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/wilsonbnmobile
+
+==================================================================
